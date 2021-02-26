@@ -1,0 +1,8 @@
+LIBRARY	"FaceDetectionLib"
+EXPORTS
+	CreateFaceDetector	@1
+	FreeFaceDetector	@2
+	DetectFaces			@3
+	DetectFaces_File	@4
+	FreeResults			@5
+	DetectFaces_Mat			@6
